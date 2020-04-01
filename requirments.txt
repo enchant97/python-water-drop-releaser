@@ -1,0 +1,2 @@
+py-serial
+threaded-task-executor
