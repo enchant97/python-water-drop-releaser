@@ -2,4 +2,4 @@
 This is a program built to make precise water drops and
 activate a camera flash to allow pictures to be taken.
 
-### Instructions on how to use will be added later here.
+Instructions can be found in the docs folder or [HERE](enchant97.github.io/python-water-drop-releaser/).
